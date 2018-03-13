@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-11"
+lastupdated: "2018-03-13"
 
 ---
 
@@ -25,47 +25,41 @@ You can access available support options, such as the {{site.data.keyword.Bluemi
 ## Types of support
 {: #typesofsupport}
 
-Different levels of support are provided for {{site.data.keyword.Bluemix_notm}} Public to meet different customer needs. Support levels differ between premium, standard, basic, and promo as described in the following sections.
+Different levels of support are provided for {{site.data.keyword.Bluemix_notm}} Public to meet different customer needs. Support levels differ between Premium, Advanced and Basic as described in the following sections.
 
 ### Premium support
 {: #premium-support}
 
 Premium support is provided for mission-critical environments that have a strategic dependence on {{site.data.keyword.Bluemix_notm}}.
 
-Severity support | Support language | Assigned client success manager (CSM) | Toll free call in numbers
+Severity support | Support language | Assigned Technical Account Manager (TAM) | Toll free call in number
 --- | --- | --- | --- |
 1-4 severity included | English, Japanese |  Included at 8 hours per week | Included |
 {: caption="Table 1. Premium support" caption-side="top"}
 
-### Standard support
-{: #standard-support}
+### Advanced support
+{: #Advanced-support}
 
-Standard support is provided for environments with a limited number of business-critical applications. {{site.data.keyword.Bluemix_notm}} Dedicated and {{site.data.keyword.Bluemix_notm}} Local customers receive standard support.
+Advanced support is provided for environments with a limited number of business-critical applications. {{site.data.keyword.Bluemix_notm}} Dedicated and {{site.data.keyword.Bluemix_notm}} Local customers receive Advanced support.
 
-Severity support | Support language | Assigned client success manager (CSM) | Toll free call in numbers
+Severity support | Support language | Assigned Technical Account Manager (TAM) | Toll free call in number
 --- | --- | --- | --- |
-1-4 severity included | English, Japanese | Not included | Not included |
-{: caption="Table 2. Standard support" caption-side="top"}
+1-4 severity included | English, Japanese | Not included | Included |
+{: caption="Table 2. Advanced support" caption-side="top"}
 
 ### Basic support
 {: #basic-support}
 
 Basic support is provided for non-production environments or workloads where traditional severities and response times are not needed.
 
-Severity support | Support language | Assigned client success manager (CSM) | Toll free call in numbers
+Severity support | Support language | Assigned Technical Account Manager (TAM) | Toll free call in number
 --- | --- | --- | --- |
-Only severity 4 supported | English | Not included | Not included |
+Only severity 4 supported | English | Not included | Included |
 {: caption="Table 3. Basic support" caption-side="top"}
 
-### Promo support
-{: #trial-support}
 
-Promo support is provided for all trial customers of {{site.data.keyword.Bluemix_notm}}.
 
-Severity support | Support language | Assigned client success manager (CSM) | Toll free call in numbers
---- | --- | --- | --- |
-Only severity 4 supported | English | Not included | Not included |
-{: caption="Table 4. Promo support" caption-side="top"}
+
 
 **Important:** Support in the Japanese language is available for severity 2-4 tickets on Monday through Friday from 9:00 a.m. to 5:00 p.m. JST, excluding national or statutory holidays. Community and third-party services are excluded. Severity 1 tickets are addressed in English only.
 
