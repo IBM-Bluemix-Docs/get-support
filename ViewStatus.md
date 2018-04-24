@@ -24,7 +24,7 @@ On the Status page, you can find the following information:
 
   * The current status of services and components in all {{site.data.keyword.Bluemix_notm}} Foundry Service regions.
   * A list of announcements, in chronological order, for maintenance and incidents. You can filter the list or open an individual announcement for more details.
-  * Planned maintenance windows, which are posted at least 24 hours in advance, except in extreme circumstances.
+  * Planned maintenance windows. Reasonable efforts are made to provide prior notice of maintenance windows, except in extreme circumstances.
   * Unplanned incidents or outages, which are posted as soon as the {{site.data.keyword.Bluemix_notm}} team becomes aware of them. Incident notifications are regularly updated until they are resolved.
   * References to security bulletins that affect the various {{site.data.keyword.Bluemix_notm}} services or the platform.
   * Other platform-wide announcements of general interest to you.
